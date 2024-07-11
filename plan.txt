@@ -1,0 +1,10 @@
+Goal 
+- to create a website that lets users click on diffrent colour cats that pop up on the screen
+
+Steps
+- create a folder 
+- going to make this using javascript, html and css
+- lets user keep a count on how many cats they have gotten
+- Add an inventory system 
+- create spawn rates of cats
+- rarety of cats (gold,mythical,extra rare)
